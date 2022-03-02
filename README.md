@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Reyhan05/Reyhan05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DanishMaula/DanishMaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="center">
+  <a href="https://github.com/Reyhan05" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=Reyhan05&show_icons=true&bg_color=FFFF&text_color=000&border_color=444" height="165">
+  </a>
+
+  <a href="https://github.com/Reyhan05" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyhan05&layout=compact&bg_color=FFF&text_color=000&border_color=444"  height="165">
+  </a>
+  <br>
+</p>
