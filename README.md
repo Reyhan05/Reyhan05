@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/Reyhan05" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=Reyhan05&show_icons=true&bg_color=FFFF&text_color=000&border_color=444" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=Reyhan05&show_icons=true&bg_color=#539bf5&text_color=000&border_color=444" height="165">
   </a>
 
   <a href="https://github.com/Reyhan05" target="_blank">
