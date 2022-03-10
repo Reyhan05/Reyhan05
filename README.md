@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   </a>
 
   <a href="https://github.com/Reyhan05" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyhan05&layout=compact&bg_color=FF9F45&text_color=FFBC80&border_color=444&hide=objective-c,swift"  height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyhan05&layout=compact&bg_color=CEE5D0&text_color=9D9D9D&border_color=444&hide=objective-c,swift"  height="165">
   </a>
   <br>
 </p>
