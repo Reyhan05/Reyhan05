@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 </p>
 
 <a href="https://github.com/Reyhan05/NewsApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Reyhan05&repo=NewsApp" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Reyhan05&repo=NewsApp&bg_color=0E1116&text_color=EEEEEE&border_color=444" />
 </a>
