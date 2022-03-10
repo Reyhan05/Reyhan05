@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/Reyhan05" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=Reyhan05&show_icons=true&bg_color=CEE5D0&text_color=1C0A00&border_color=444" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=Reyhan05&show_icons=true&bg_color=0E1116&text_color=EEEEEE&border_color=444" height="165">
   </a>
 
   <a href="https://github.com/Reyhan05" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyhan05&layout=compact&bg_color=CEE5D0&text_color=1C0A00&border_color=444&hide=objective-c,swift"  height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyhan05&layout=compact&bg_color=0E1116&text_color=EEEEEE&border_color=444&hide=objective-c,swift"  height="165">
   </a>
   <br>
 </p>
