@@ -31,9 +31,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Reyhan05&repo=NewsApp&bg_color=0E1116&text_color=EEEEEE&border_color=444" />
 </a>
 
-<a href="https://github.com/Reyhan05/NewsApp">
-  
-![GitHub Activity Graph](https://activity-graph.Weather_App.com/graph?username=Reyhan05&theme=github)  
-  
+<a href="https://github.com/Reyhan05/NewsApp"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Reyhan05&repo=QuizApp&bg_color=0E1116&text_color=EEEEEE&border_color=444" />
 </a>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Reyhan05&theme=github)  
