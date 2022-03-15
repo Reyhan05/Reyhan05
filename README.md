@@ -1,4 +1,8 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=Reyhan05&color=brightgreen)
+[![Visits Badge](https://badges.pufler.dev/visits/Reyhan05/Reyhan05)](https://github.com/Reyhan05)
+[![Years Badge](https://badges.pufler.dev/years/Reyhan05)](https://badges.pufler.dev)
+
 
 <!--
 **Reyhan05/Reyhan05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
