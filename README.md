@@ -4,8 +4,8 @@
 [![Years Badge](https://badges.pufler.dev/years/Reyhan05)](https://badges.pufler.dev)
 
 <p align="left">
-<a href="https://github.com/muhammadfarros12">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadfarros12&theme=nord"/>
+<a href="https://github.com/Reyhan05">
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Reyhan05&theme=nord"/>
 </a>
 </p>
 
