@@ -3,6 +3,11 @@
 [![Visits Badge](https://badges.pufler.dev/visits/Reyhan05/Reyhan05)](https://github.com/Reyhan05)
 [![Years Badge](https://badges.pufler.dev/years/Reyhan05)](https://badges.pufler.dev)
 
+<p align="left">
+<a href="https://github.com/muhammadfarros12">
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadfarros12&theme=nord"/>
+</a>
+</p>
 
 <!--
 **Reyhan05/Reyhan05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
