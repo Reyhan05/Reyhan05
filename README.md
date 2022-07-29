@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=Reyhan05&color=brightgreen)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/reyhan-mohamad-akbar-117b52219/)
 
 Perkenalkan nama saya 
 
@@ -7,8 +8,6 @@ Perkenalkan nama saya
 <h1 align="center">Reyhan Mohamad akbar.</h1>  
 
 saya seorang Siswa di **IDN BOARDING SCHOOL**, dan juga saya Belajar **Android Developer**
-
-Jika ingin tahu lebih lanjut, Boleh liat di [LinkedIn](https://www.linkedin.com/in/reyhan-mohamad-akbar-117b52219/) saya.
 
 <p align="left">
 <a href="https://github.com/Reyhan05">
@@ -42,5 +41,27 @@ Here are some ideas to get you started:
   </a>
   <br>
 </p>
+
+## 💼 Skills
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+
+
+<details>
+<summary>More Skills</summary>
+<br>
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![FLUTTER](https://img.shields.io/badge/flutter-%23323330.svg?style=for-the-badge&logo=flutter&logoColor=%23F7DF1E)
+<br>
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
+
+</details>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Reyhan05&theme=github)  
