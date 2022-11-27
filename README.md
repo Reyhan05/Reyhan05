@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Folks 👋
 ![](https://komarev.com/ghpvc/?username=Reyhan05&color=brightgreen)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/reyhan-mohamad-akbar-117b52219/)
 
