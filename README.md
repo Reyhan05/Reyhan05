@@ -9,12 +9,6 @@ Perkenalkan nama saya
 
 Saya adalah Mahasiswa @ **Universitas Indonesia**, dan seorang **Web Developer Enthusiast**
 
-<p align="left">
-<a href="https://github.com/Reyhan05">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Reyhan05&theme=nord"/>
-</a>
-</p>
-
 <!--
 **Reyhan05/Reyhan05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
