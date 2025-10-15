@@ -7,7 +7,7 @@ Perkenalkan nama saya
 
 <h1 align="center">Reyhan Mohamad akbar.</h1>  
 
-saya seorang Siswa di **IDN BOARDING SCHOOL**, dan juga saya seorang **Android Developer**
+saya seorang Mahasiswa di **Universitas Indonesia**, dan juga saya seorang **Web Developer**
 
 <p align="left">
 <a href="https://github.com/Reyhan05">
