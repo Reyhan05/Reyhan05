@@ -56,5 +56,3 @@ Here are some ideas to get you started:
 
 
 </details>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Reyhan05&theme=github)  
