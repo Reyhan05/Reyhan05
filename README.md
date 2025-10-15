@@ -7,7 +7,7 @@ Perkenalkan nama saya
 
 <h1 align="center">Reyhan Mohamad akbar.</h1>  
 
-saya seorang Mahasiswa di **Universitas Indonesia**, dan juga saya seorang **Web Developer**
+Saya adalah Mahasiswa @ **Universitas Indonesia**, dan seorang **Web Developer Enthusiast**
 
 <p align="left">
 <a href="https://github.com/Reyhan05">
